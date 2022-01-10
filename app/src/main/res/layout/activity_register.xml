@@ -21,10 +21,10 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="100dp"
-        android:layout_marginTop="84dp"
+        android:layout_width="275dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="80dp"
         android:ems="10"
         android:hint="სახელი"
         android:inputType="textPersonName"
@@ -35,10 +35,10 @@
 
     <EditText
         android:id="@+id/editTextTextEmailAddress"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="100dp"
-        android:layout_marginTop="32dp"
+        android:layout_width="275dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="40dp"
         android:ems="10"
         android:hint="მეილი"
         android:inputType="textEmailAddress"
@@ -49,9 +49,9 @@
 
     <EditText
         android:id="@+id/editTextTextPassword"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="100dp"
+        android:layout_width="275dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="68dp"
         android:layout_marginTop="32dp"
         android:ems="10"
         android:hint="პაროლი"
@@ -63,9 +63,9 @@
 
     <EditText
         android:id="@+id/editTextTextPassword2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="100dp"
+        android:layout_width="275dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="68dp"
         android:layout_marginTop="32dp"
         android:ems="10"
         android:hint="გაიმეორეთ პაროლი"

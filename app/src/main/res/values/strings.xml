@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="Nissan_Skyline">დამატებითი ინფორმაცია:
+
+        მაქსიმალური ქარხნული სიჩქარე: 265კმ/სთ
+        ფილმი: ფორსაჟი 2
+        ძრავი: 6 ცილინდრიანი twin turbo
+        გამოშვების თარიღი: 1999
+        გამოშვების დროინდელი ფასი: 68,000$</string>
 </resources>
+    
